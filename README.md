@@ -1,3 +1,5 @@
+# Update : pyparrot does NOT work with the new firmware of the bebop 2, so this repo is useless until I have the motivation to update pyparrot
+
 # Bebop Control Script
 Some useful python script which allows you to control your parrot bebop 2 with code, get live stream, and schedule routes! 
 <br>
